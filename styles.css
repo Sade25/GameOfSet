@@ -1,0 +1,61 @@
+body {
+  background-color: rgb(239, 227, 239);
+}
+
+h1 {
+  color: rgb(140, 15, 132);
+  font-weight: bolder;
+  font-size: 75px;
+  position: relative;
+  left: 275px;
+}
+
+p {
+  color: gray;
+  text-align: center;
+}
+
+.container {
+  position: absolute;
+  width: 1000px;
+  height: 555px;
+  border: 5px solid rgb(140, 15, 132);
+  left: 160px;
+  top: 45px;
+}
+
+.card-space {
+  float: right;
+  border: solid 3px orange;
+  /* border: 2px solid rgb(18, 146, 7); */
+  right: 10px;
+  width: 520px;
+  height: 545px;
+}
+
+button {
+  text-align: center;
+  position: relative;
+  width: 150px;
+  height: 75px;
+  left: 350px;
+  top: 120px;
+  font-size: 16px;
+  cursor: pointer;
+  color: white;
+  background-color: rgb(140, 15, 132);
+  font-size: 24px;
+  transition-duration: 0.4s;
+}
+
+button:hover {
+  background-color: white;
+  color: rgb(140, 15, 132);
+}
+
+img {
+  transform: rotate(90deg);
+  height: 75px;
+  border: 3px solid black;
+  margin: 25px;
+}
