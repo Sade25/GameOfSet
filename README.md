@@ -10,4 +10,4 @@ The game of Set implemented
 SEE THE OFFICAL RULES OF SET FOR MORE DETAILS ON HOW TO PLAY: https://www.setgame.com/sites/default/files/instructions/SET%20INSTRUCTIONS%20-%20ENGLISH.pdf
 
 
-## To play this game, first clone the repository then host a server or use live server by VS Code 
+To play this game, first clone the repository then host a server or use live server by VS Code 
